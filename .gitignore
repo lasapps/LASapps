@@ -1,0 +1,27 @@
+#ignore folders
+Debug
+Release
+x64
+ipch
+
+#ignore object files
+*.obj
+*.o
+
+#ignore some visual studio files
+*.pch
+*.sbr
+*.sdf
+*.res
+*.ilk
+*.lastbuildstate
+*.manifest
+*.pdb
+*.log
+*.tlog
+*.idb
+*.ncb
+*.aps
+*.opendb
+*.opensdf
+*.cachefile

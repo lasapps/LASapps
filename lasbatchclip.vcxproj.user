@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-i "D:\tuiles_sample\las\*.las" -poly "D:\tuiles_sample\shp\*.shp" -odirbasedonlas -fieldindexname tree_num -lasclippath "C:\oifii-org\httpdocs\ns-org\nsd\bs\geo_spi\LASapps\x64\Release\lasclip.exe" -lasclipworkingdir "c:\oifii-org\httpdocs\ns-org\nsd\bs\geo_spi\lib-src\release-1800-x64-gdal-2-1-3-mapserver-7-0-4\bin" -cores 4 -verbose</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>c:\oifii-org\httpdocs\ns-org\nsd\bs\geo_spi\lib-src\release-1800-x64-gdal-2-1-3-mapserver-7-0-4\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
